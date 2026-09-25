@@ -102,4 +102,4 @@ data   { title, short, grades, volume, tool, goal, modules[] }
 ## Лицензия
 
 MIT — см. файл `LICENSE`. Перед сдачей впишите в него название команды.
-"# 堪�⮭-�������-chpk" 
+"chpk" 
